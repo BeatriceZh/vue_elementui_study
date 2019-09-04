@@ -2,9 +2,11 @@
 
 > study vue,elementui and es6
 
+## start
+
 # install vue-cli
 
-npm install --global
+npm install --global vue-cli
 
 # init vue project
 
